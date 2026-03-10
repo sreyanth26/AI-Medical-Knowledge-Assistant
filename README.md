@@ -42,7 +42,7 @@ Answer + Source Citations Returned
 | RAG Framework | [LangChain](https://langchain.com) |
 | Embedding Model | `sentence-transformers/all-MiniLM-L6-v2` (HuggingFace) |
 | Vector Database | [FAISS](https://github.com/facebookresearch/faiss) |
-| Local LLM | [Llama 3](https://ollama.ai/library/llama3) / Mistral via [Ollama](https://ollama.ai) |
+| Local LLM | [Phi3](https://ollama.ai/library/phi3) / [Mistral](https://ollama.ai/library/mistral) / [Llama3](https://ollama.ai/library/llama3) via [Ollama](https://ollama.ai) |
 | Backend API | [FastAPI](https://fastapi.tiangolo.com) |
 | Frontend | [Streamlit](https://streamlit.io) |
 | Language | Python 3.10+ |
