@@ -1,0 +1,162 @@
+DENGUE FEVER — CLINICAL GUIDELINES (Sample)
+Source: WHO Model Treatment Guidelines (Illustrative Sample)
+
+1. OVERVIEW
+Dengue fever is a mosquito-borne viral infection caused by the dengue virus (DENV),
+transmitted by Aedes aegypti and Aedes albopictus mosquitoes. There are four distinct
+serotypes (DENV-1 to DENV-4). It is prevalent in tropical and subtropical regions.
+
+2. CLINICAL FEATURES
+- Sudden high fever (39–40°C)
+- Severe headache
+- Pain behind the eyes (retro-orbital pain)
+- Muscle and joint pain (breakbone fever)
+- Nausea and vomiting
+- Skin rash appearing 2–5 days after fever onset
+- Mild bleeding manifestations (nose or gum bleed, easy bruising)
+
+3. DIAGNOSIS
+- NS1 antigen test: positive in first 1–5 days
+- IgM/IgG serology: positive from day 5 onward
+- Complete blood count (CBC): thrombocytopenia and leukopenia are hallmarks
+
+4. TREATMENT
+Dengue fever treatment is primarily supportive. There is NO specific antiviral therapy.
+
+4.1 Fluid Management
+- Oral rehydration therapy (ORT) for mild cases
+- IV isotonic fluids (normal saline or Ringer's lactate) if patient cannot tolerate orals
+- Monitor urine output (target ≥0.5 mL/kg/hour)
+
+4.2 Fever Management
+- Paracetamol (acetaminophen): 500mg–1g every 4–6 hours; maximum 4g/day
+- DO NOT use aspirin or ibuprofen — increases risk of bleeding and Reye syndrome
+
+4.3 Warning Signs Requiring Hospitalization
+- Severe abdominal pain
+- Persistent vomiting
+- Rapid breathing, fluid accumulation
+- Fatigue/restlessness
+- Liver enlargement >2 cm
+- Platelet count <20,000/mm³
+
+5. PREVENTION
+- No specific treatment; prevention focuses on vector control
+- Dengvaxia vaccine available in some endemic countries for seropositive individuals ≥9 years old
+- Eliminate mosquito breeding sites (standing water)
+- Personal protection: repellents, long clothing, bed nets
+
+---
+
+PARACETAMOL (ACETAMINOPHEN) — DRUG INFORMATION
+
+Generic Name: Paracetamol (INN) / Acetaminophen (USAN)
+Drug Class: Analgesic / Antipyretic
+Mechanism: Inhibits prostaglandin synthesis in the CNS; acts on hypothalamic heat-regulation center
+
+INDICATIONS
+- Mild to moderate pain (headache, musculoskeletal pain, dysmenorrhea)
+- Fever reduction
+
+DOSAGE — ADULTS
+- Standard dose: 500 mg to 1 g every 4–6 hours as needed
+- Maximum daily dose: 4 g (4000 mg) in 24 hours
+- Reduce to maximum 2 g/day in patients with hepatic impairment or chronic alcohol use
+
+DOSAGE — CHILDREN
+- 10–15 mg/kg every 4–6 hours
+- Maximum 5 doses in 24 hours
+- Do not exceed 75 mg/kg/day
+
+CONTRAINDICATIONS
+- Known hypersensitivity to paracetamol
+- Severe hepatic impairment
+
+SIDE EFFECTS
+- Rare at therapeutic doses
+- Overdose: Hepatotoxicity (liver damage) — this is a medical emergency
+- Overdose antidote: N-acetylcysteine (NAC) — administer within 8–10 hours
+
+DRUG INTERACTIONS
+- Warfarin: may enhance anticoagulant effect
+- Alcohol: combined use increases hepatotoxicity risk
+- Carbamazepine / rifampicin: may increase metabolism (reduce efficacy)
+
+---
+
+AMOXICILLIN — DRUG INFORMATION
+
+Generic Name: Amoxicillin
+Drug Class: Aminopenicillin (beta-lactam antibiotic)
+Mechanism: Inhibits bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs)
+
+INDICATIONS
+- Upper respiratory tract infections (tonsillitis, sinusitis, otitis media)
+- Lower respiratory tract infections (community-acquired pneumonia)
+- Urinary tract infections (UTI)
+- Skin and soft tissue infections
+- Helicobacter pylori eradication (in combination regimens)
+
+DOSAGE — ADULTS
+- Standard: 250–500 mg every 8 hours, or 500–875 mg every 12 hours
+- Severe infections: 1 g every 8 hours
+- H. pylori: 1 g twice daily (with clarithromycin + PPI)
+
+DOSAGE — CHILDREN
+- 25–50 mg/kg/day divided every 8–12 hours
+
+CONTRAINDICATIONS
+- Penicillin allergy
+- Infectious mononucleosis (risk of maculopapular rash)
+
+SIDE EFFECTS
+- Diarrhea (common)
+- Nausea, vomiting
+- Skin rash
+- Allergic reactions (urticaria, anaphylaxis — rare but serious)
+
+RESISTANCE NOTE
+Many common organisms have developed beta-lactamase resistance to amoxicillin alone.
+Amoxicillin-clavulanate (co-amoxiclav) is often used to overcome this resistance.
+
+---
+
+MALARIA — CLINICAL OVERVIEW
+
+Causative Agents: Plasmodium falciparum, P. vivax, P. malariae, P. ovale, P. knowlesi
+Transmission: Female Anopheles mosquito bite
+
+SYMPTOMS
+Classic malaria triad:
+1. Fever (cyclic, every 48–72 hours depending on species)
+2. Chills / rigors
+3. Sweating
+
+Other symptoms:
+- Headache, malaise, myalgia
+- Nausea and vomiting
+- Splenomegaly (enlarged spleen) in chronic cases
+- Severe P. falciparum: cerebral malaria, severe anemia, respiratory distress
+
+DIAGNOSIS
+- Peripheral blood smear (gold standard)
+- Rapid Diagnostic Test (RDT) for HRP-2 antigen
+- PCR for species confirmation
+
+TREATMENT
+First-line uncomplicated P. falciparum:
+- Artemisinin-based Combination Therapy (ACT)
+  e.g., Artemether-lumefantrine (AL) for 3 days
+
+Severe malaria:
+- IV Artesunate (preferred over quinine)
+- Hospitalization required
+
+P. vivax / P. ovale:
+- Chloroquine (where sensitive) + Primaquine to eliminate hypnozoites
+- Check G6PD status before primaquine (risk of hemolysis)
+
+PREVENTION
+- Insecticide-treated bed nets (ITNs)
+- Indoor residual spraying (IRS)
+- Chemoprophylaxis for travelers: doxycycline, atovaquone-proguanil, or mefloquine

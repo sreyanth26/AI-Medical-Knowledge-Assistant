@@ -1,0 +1,192 @@
+CHRONIC DISEASE MANAGEMENT GUIDELINES
+======================================
+Sample Document for Testing AI Medical Knowledge Assistant
+Source: Illustrative Clinical Reference (Not real medical advice)
+
+========================================
+SECTION 1: HYPERTENSION (HIGH BLOOD PRESSURE)
+========================================
+
+DEFINITION
+Hypertension is defined as persistently elevated blood pressure:
+- Stage 1: Systolic 130–139 mmHg OR Diastolic 80–89 mmHg
+- Stage 2: Systolic ≥140 mmHg OR Diastolic ≥90 mmHg
+- Hypertensive Crisis: Systolic >180 and/or Diastolic >120 mmHg
+
+CAUSES
+Primary (Essential) Hypertension — 90–95% of cases:
+- No identifiable single cause
+- Risk factors: age, obesity, sedentary lifestyle, high salt intake, alcohol, family history, stress
+
+Secondary Hypertension — 5–10% of cases:
+- Renal: Chronic kidney disease, renal artery stenosis
+- Endocrine: Primary aldosteronism, Cushing's syndrome, pheochromocytoma, thyroid disease
+- Obstructive sleep apnea
+- Medications: NSAIDs, oral contraceptives, corticosteroids, decongestants
+
+SYMPTOMS
+Often called "silent killer" — most patients have NO symptoms.
+Severe/emergency signs: Severe headache (occipital), visual disturbances, chest pain,
+dyspnea, nausea, neurological symptoms (hypertensive emergency)
+
+DIAGNOSIS
+- Office BP: Average of 2 readings, 2 occasions, 5 minutes apart
+- Ambulatory BP Monitoring (ABPM): 24-hour monitoring (gold standard)
+- Home BP Monitoring: Useful for white-coat hypertension
+
+LIFESTYLE MODIFICATIONS (First-line for Stage 1)
+- DASH diet: Low sodium (<2.3g/day), high potassium, fruits, vegetables, low-fat dairy
+- Weight loss: Each 1kg reduction lowers BP by ~1 mmHg
+- Physical activity: 150 minutes moderate exercise/week
+- Limit alcohol: Men <2 drinks/day; Women <1 drink/day
+- Quit smoking
+- Stress management
+
+PHARMACOLOGICAL TREATMENT
+
+First-line Drug Classes (A-C-D rule):
+A — ACE Inhibitors / ARBs: Lisinopril, Ramipril, Amlodipine, Losartan, Valsartan
+C — Calcium Channel Blockers (CCBs): Amlodipine 5–10mg OD (preferred in Black patients, elderly)
+D — Diuretics (Thiazide-type): Hydrochlorothiazide, Chlorthalidone, Indapamide
+
+Beta-blockers: Not first-line unless angina, heart failure, or post-MI
+
+Combination Therapy:
+- Most patients require 2+ drugs for BP control
+- Preferred combo: ACE inhibitor/ARB + CCB or Thiazide
+- Avoid: ACE inhibitor + ARB combination (increases renal risk)
+
+TARGET BP
+- General: <130/80 mmHg
+- Elderly (>65 years): <130/80 mmHg if tolerated
+- CKD with proteinuria: <130/80 mmHg
+- Diabetes: <130/80 mmHg
+
+MONITORING
+- BP check: Every 1–3 months until controlled, then every 6–12 months
+- Annual: Renal function, electrolytes, fasting glucose, lipid profile, ECG
+- Screen for end-organ damage: Eyes (retinopathy), kidneys (proteinuria), heart (LVH)
+
+========================================
+SECTION 2: TYPE 2 DIABETES MELLITUS
+========================================
+
+DEFINITION
+Type 2 Diabetes: Chronic metabolic disorder characterized by:
+- Insulin resistance (cells don't respond to insulin)
+- Progressive beta-cell dysfunction (insufficient insulin production)
+- Resulting in hyperglycemia (high blood glucose)
+
+DIAGNOSTIC CRITERIA (Any one of the following):
+- Fasting plasma glucose ≥126 mg/dL (7.0 mmol/L) on 2 occasions
+- 2-hour glucose ≥200 mg/dL (11.1 mmol/L) during OGTT
+- HbA1c ≥6.5% (confirmed on repeat testing)
+- Random glucose ≥200 mg/dL with classic symptoms
+
+Prediabetes:
+- Fasting: 100–125 mg/dL (Impaired Fasting Glucose)
+- HbA1c: 5.7–6.4%
+
+RISK FACTORS
+- Obesity (BMI ≥25, especially central obesity)
+- Sedentary lifestyle
+- Family history (first-degree relative with T2DM)
+- Gestational diabetes history
+- Hypertension, dyslipidemia
+- PCOS
+- Age ≥45 years
+- Ethnicity: South Asian, African, Hispanic (higher risk)
+
+SYMPTOMS
+Classic "3 Ps":
+- Polyuria (excessive urination)
+- Polydipsia (excessive thirst)
+- Polyphagia (excessive hunger)
+Other: Weight loss, fatigue, blurred vision, slow wound healing, frequent infections
+
+TREATMENT ALGORITHM
+
+Step 1 — Lifestyle + Metformin
+- Metformin 500mg OD/BD, titrate to 2000mg/day
+- Target HbA1c: <7% (individualise — <8% for elderly/frail)
+
+Step 2 — Add second agent if HbA1c not at target after 3 months:
+Choose based on patient profile:
+- With cardiovascular disease: Add SGLT2 inhibitor (Empagliflozin, Dapagliflozin) or GLP-1 agonist (Liraglutide, Semaglutide)
+- With heart failure or CKD: Prefer SGLT2 inhibitor
+- Need weight loss: GLP-1 agonist
+- Cost concern: Sulfonylurea (Glipizide, Glimepiride) or Pioglitazone
+
+Step 3 — Add third agent or insulin if still not at target
+
+Insulin Initiation:
+- Basal insulin (Glargine or NPH): 10 units at bedtime OR 0.1–0.2 units/kg
+- Titrate by 1–2 units every 3 days until fasting glucose 80–130 mg/dL
+
+MONITORING
+- HbA1c: Every 3 months until stable, then every 6 months
+- Self-monitoring blood glucose (SMBG): Fasting and 2h post-meal
+- Annual screening:
+  * Urine albumin-creatinine ratio (kidney)
+  * Fundoscopy (diabetic retinopathy)
+  * Foot examination (peripheral neuropathy, peripheral artery disease)
+  * Lipid profile
+  * Blood pressure
+
+HYPOGLYCEMIA MANAGEMENT
+Blood glucose <70 mg/dL (3.9 mmol/L):
+Mild/Moderate: 15g fast-acting carbohydrates (glucose tablets, 150mL juice, 3 sugar sachets)
+Reassess after 15 minutes — repeat if still <70 mg/dL ("15-15 rule")
+Severe (unconscious): 1mg glucagon IM or IV Dextrose 50%
+
+COMPLICATIONS
+Microvascular: Diabetic nephropathy, retinopathy, neuropathy
+Macrovascular: Coronary artery disease, stroke, peripheral artery disease
+Other: Diabetic foot, recurrent infections, erectile dysfunction
+
+========================================
+SECTION 3: ASTHMA
+========================================
+
+DEFINITION
+Asthma is a chronic inflammatory airway disease characterized by:
+- Variable airflow obstruction (usually reversible)
+- Airway hyperresponsiveness
+- Chronic airway inflammation
+
+SYMPTOMS
+- Episodic wheezing (musical whistling sound on expiration)
+- Chest tightness
+- Shortness of breath (dyspnea)
+- Cough (often worse at night and early morning)
+Triggers: Allergens, exercise, cold air, infections, smoke, NSAIDs
+
+DIAGNOSIS
+- Spirometry: FEV1/FVC ratio <0.7 with ≥12% and 200mL improvement after bronchodilator
+- Peak Expiratory Flow (PEF): Variability >10% confirms diagnosis
+- FeNO (Fractional exhaled Nitric Oxide): Elevated in eosinophilic asthma
+
+SEVERITY AND STEP THERAPY
+
+Step 1 (Mild intermittent):
+- SABA (Salbutamol/Albuterol 100mcg MDI) PRN only — no daily controller
+
+Step 2 (Mild persistent):
+- Low-dose Inhaled Corticosteroid (ICS): Budesonide 100–200mcg BD OR Beclometasone 100–200mcg BD
+- Or: LTRA (Montelukast 10mg OD) if ICS not tolerated
+
+Step 3 (Moderate persistent):
+- Low-dose ICS + LABA: Budesonide/Formoterol 160/4.5mcg BD OR Fluticasone/Salmeterol
+
+Step 4 (Severe):
+- Medium-high dose ICS + LABA
+- Add LAMA (Tiotropium) or LTRA
+- Consider biologic therapy (Omalizumab for allergic asthma, Mepolizumab for eosinophilic)
+
+ACUTE SEVERE ASTHMA — MANAGEMENT
+- Sit patient upright, high-flow oxygen (target SpO2 94–98%)
+- Salbutamol nebulization: 2.5–5mg every 20 minutes for 1 hour
+- Ipratropium bromide: 0.5mg nebulized every 20 minutes x 3 doses
+- IV Hydrocortisone 200mg OR Oral Prednisolone 40–50mg
+- IV Magnesium Sulfate 1.2–2g over 20 minutes (severe cases)
+- If no improvement: ICU, IV Aminophylline, or mechanical ventilation

@@ -1,0 +1,290 @@
+DRUG REFERENCE DATABASE
+========================
+Sample Document for Testing AI Medical Knowledge Assistant
+Source: Illustrative Pharmacological Reference (Not real medical advice)
+
+========================================
+DRUG 1: PARACETAMOL (ACETAMINOPHEN)
+========================================
+
+Generic Name: Paracetamol
+Brand Names: Calpol, Tylenol, Panadol, Dolo 650
+Drug Class: Analgesic / Antipyretic (non-opioid)
+Mechanism of Action:
+Inhibits prostaglandin synthesis in the central nervous system (CNS).
+Acts on the hypothalamic heat-regulating center to reduce fever.
+Does NOT have significant anti-inflammatory activity (unlike NSAIDs).
+
+INDICATIONS
+- Mild to moderate pain: headache, toothache, musculoskeletal pain, dysmenorrhea
+- Post-operative pain (mild)
+- Fever reduction in adults and children
+- Osteoarthritis pain management
+
+DOSAGE
+Adults:
+- Standard: 500mg to 1000mg (1g) every 4–6 hours as needed
+- Maximum: 4000mg (4g) per 24-hour period
+- Reduce to 2g/day in: elderly, hepatic impairment, chronic alcohol users, malnourished
+
+Children (by weight):
+- 10–15 mg/kg body weight every 4–6 hours
+- Maximum 5 doses in 24 hours
+- Maximum 75 mg/kg/day
+
+Elderly: Start with lower doses (500mg every 6 hours); reduce max to 3g/day
+
+Renal impairment: Extend interval to every 6–8 hours
+
+CONTRAINDICATIONS
+- Known hypersensitivity to paracetamol
+- Severe hepatic impairment (Child-Pugh C)
+- Hypersensitivity to any excipients
+
+ADVERSE EFFECTS
+Rare at therapeutic doses. Main concern is OVERDOSE.
+- Hepatotoxicity (liver failure) — most serious, from overdose
+- Skin reactions: rare rashes, urticaria
+- Blood disorders: thrombocytopenia (very rare)
+- Hypersensitivity reactions (rare)
+
+OVERDOSE
+Signs appear 24–72 hours after ingestion:
+- Early (0–24h): Nausea, vomiting, malaise (may appear normal)
+- Late (24–72h): Right upper quadrant pain, jaundice, liver failure
+ANTIDOTE: N-acetylcysteine (NAC) — most effective within 8 hours of ingestion
+Treatment: Activated charcoal if within 1 hour; IV NAC protocol
+
+DRUG INTERACTIONS
+- Warfarin: Enhanced anticoagulant effect (monitor INR with regular use)
+- Alcohol (chronic use): Significantly increased hepatotoxicity risk
+- Carbamazepine, Rifampicin, Phenytoin: Increased metabolism of paracetamol (reduced efficacy and increased toxic metabolite)
+- Isoniazid: Increased hepatotoxicity risk
+
+SPECIAL CONSIDERATIONS
+- Safe in pregnancy (all trimesters) at recommended doses
+- Safe during breastfeeding
+- Preferred analgesic/antipyretic for dengue fever (avoid NSAIDs)
+- Available OTC; educate patients on maximum daily dose
+
+========================================
+DRUG 2: AMOXICILLIN
+========================================
+
+Generic Name: Amoxicillin
+Brand Names: Amoxil, Trimox, Moxatag
+Drug Class: Aminopenicillin (Beta-lactam antibiotic)
+Mechanism of Action:
+Bactericidal. Inhibits bacterial cell wall synthesis by binding to
+Penicillin-Binding Proteins (PBPs), causing cell lysis and death.
+
+SPECTRUM OF ACTIVITY
+Gram-positive: Streptococcus pneumoniae, Streptococcus pyogenes, Enterococcus faecalis
+Gram-negative: Haemophilus influenzae, E. coli, Proteus mirabilis
+Also: Helicobacter pylori (in combination therapy)
+NOT effective against: MRSA, beta-lactamase-producing organisms (use Amoxicillin-clavulanate)
+
+INDICATIONS
+- Upper respiratory tract infections: otitis media, sinusitis, tonsillitis
+- Lower respiratory tract infections: community-acquired pneumonia
+- Urinary tract infections (UTI) — uncomplicated
+- Skin and soft tissue infections
+- Dental infections and prophylaxis
+- Helicobacter pylori eradication (combination regimen)
+- Lyme disease (early stage)
+
+DOSAGE
+Adults:
+- Mild-moderate infections: 250–500mg every 8 hours OR 500–875mg every 12 hours
+- Severe infections: 875mg every 12 hours or 1g every 8 hours
+- Pneumonia: 500mg three times daily or 1g twice daily
+- H. pylori eradication: 1g twice daily (with clarithromycin 500mg BD + PPI BD for 7–14 days)
+- Dental prophylaxis: 2g single dose 30–60 minutes before procedure
+
+Children:
+- 25–50 mg/kg/day divided every 8–12 hours
+- Severe infections: 80–90 mg/kg/day
+
+Duration: 5–7 days (most infections); 7–10 days (strep throat to prevent rheumatic fever)
+
+CONTRAINDICATIONS
+- Hypersensitivity to penicillins (history of anaphylaxis — absolute contraindication)
+- History of amoxicillin-associated jaundice or hepatic dysfunction
+- Infectious mononucleosis (Epstein-Barr virus) — causes extensive maculopapular rash
+
+ADVERSE EFFECTS
+Common:
+- Diarrhea (up to 10%)
+- Nausea and vomiting
+- Skin rash (maculopapular rash — especially in mononucleosis)
+
+Serious (rare):
+- Anaphylaxis (0.01–0.05% of penicillin-treated patients)
+- Stevens-Johnson syndrome (very rare)
+- Clostridioides difficile-associated diarrhea (pseudomembranous colitis)
+- Seizures (at very high doses, especially in renal failure)
+- Hepatotoxicity (rare)
+
+DRUG INTERACTIONS
+- Warfarin: May enhance anticoagulant effect (monitor INR)
+- Oral contraceptives: Theoretical reduction in efficacy (advise additional contraception)
+- Allopurinol: Increased incidence of skin rashes
+- Probenecid: Reduces renal excretion of amoxicillin (increases levels — may be intentional)
+- Methotrexate: Amoxicillin reduces methotrexate clearance (toxicity risk)
+
+SPECIAL CONSIDERATIONS
+- Cross-reactivity with cephalosporins: ~1–2% in penicillin-allergic patients
+- Renally cleared: reduce dose in CrCl <30 mL/min
+- Safe in pregnancy (Category B)
+- Reconstituted oral suspension: refrigerate and use within 14 days
+
+========================================
+DRUG 3: METFORMIN
+========================================
+
+Generic Name: Metformin Hydrochloride
+Brand Names: Glucophage, Glumetza, Fortamet
+Drug Class: Biguanide (Antidiabetic)
+Mechanism of Action:
+- Decreases hepatic glucose production (gluconeogenesis) — primary mechanism
+- Increases insulin sensitivity in peripheral tissues (muscle, fat)
+- Slows intestinal glucose absorption
+- Does NOT stimulate insulin secretion (no hypoglycemia risk when used alone)
+
+INDICATIONS
+- Type 2 Diabetes Mellitus (first-line medication per WHO, ADA, IDF guidelines)
+- Prediabetes (to delay progression to type 2 DM)
+- Polycystic Ovary Syndrome (PCOS) — off-label but widely used
+- Prevention of type 2 diabetes in high-risk individuals
+
+DOSAGE
+Adults:
+- Starting dose: 500mg twice daily OR 850mg once daily with meals
+- Titration: Increase by 500mg weekly or 850mg every 2 weeks
+- Target dose: 2000mg/day in divided doses (most effective)
+- Maximum: 2550mg/day (2000mg is often sufficient)
+- Extended-release (XR): 500mg–2000mg once daily with evening meal (better GI tolerance)
+
+CONTRAINDICATIONS
+- eGFR <30 mL/min/1.73m² (risk of lactic acidosis — ABSOLUTE contraindication)
+- eGFR 30–45: Use with caution, dose reduction required
+- Active or recent contrast dye use: Hold 48 hours before and after iodinated contrast
+- Hepatic impairment (significant)
+- Alcohol abuse
+- Acute or chronic metabolic acidosis
+- Dehydration / sepsis / hemodynamic instability
+
+ADVERSE EFFECTS
+Common (GI — usually transient, improves with food and dose titration):
+- Nausea, vomiting (most common reason for discontinuation)
+- Diarrhea
+- Abdominal discomfort, metallic taste
+
+Serious (rare):
+- Lactic acidosis: Rare but potentially fatal; risk increases with renal impairment
+  Signs: muscle pain, weakness, difficulty breathing, abdominal pain, nausea
+- Vitamin B12 deficiency: Long-term use reduces B12 absorption (check B12 annually)
+
+DRUG INTERACTIONS
+- Alcohol: Increases risk of lactic acidosis
+- Iodinated contrast agents: Hold metformin 48h before and after
+- Cimetidine: Increases metformin levels (reduces renal clearance)
+- Diuretics, ACE inhibitors: May affect renal function and metformin clearance
+- Topiramate, Acetazolamide: Increased lactic acidosis risk
+
+MONITORING
+- HbA1c: Every 3 months until stable, then every 6 months
+- Renal function (eGFR/creatinine): Before starting, at 3–6 months, then annually
+- Vitamin B12: Annual check in long-term users
+- Liver function: Baseline and periodically
+
+========================================
+DRUG 4: AMLODIPINE
+========================================
+
+Generic Name: Amlodipine Besylate
+Brand Names: Norvasc, Amlo, Stamlo
+Drug Class: Calcium Channel Blocker (Dihydropyridine)
+Mechanism of Action:
+Blocks voltage-gated L-type calcium channels in vascular smooth muscle and cardiac muscle.
+Results in: vasodilation (reduces peripheral resistance and blood pressure)
+            reduced myocardial oxygen demand (antianginal effect)
+
+INDICATIONS
+- Hypertension (first-line agent, especially in elderly and Black patients)
+- Stable angina pectoris
+- Vasospastic angina (Prinzmetal's angina)
+
+DOSAGE
+Adults:
+- Hypertension: Start 5mg once daily; may increase to 10mg once daily after 7–14 days
+- Angina: 5–10mg once daily
+- Elderly / hepatic impairment: Start with 2.5mg once daily
+
+CONTRAINDICATIONS
+- Hypersensitivity to amlodipine or other dihydropyridines
+- Severe hypotension (systolic BP <90 mmHg)
+- Cardiogenic shock
+- Unstable angina (severe, use with caution)
+
+ADVERSE EFFECTS
+Common:
+- Peripheral edema (ankle swelling) — most common, dose-dependent
+- Flushing, headache, dizziness
+- Fatigue, palpitations
+
+Serious (rare):
+- Severe hypotension
+- Myocardial infarction (rare, worsening angina on initiation)
+- Hepatotoxicity (rare)
+
+DRUG INTERACTIONS
+- CYP3A4 inhibitors (clarithromycin, ketoconazole, grapefruit juice): Increase amlodipine levels
+- CYP3A4 inducers (rifampicin, carbamazepine): Reduce amlodipine levels
+- Simvastatin: Amlodipine increases simvastatin exposure (risk of myopathy — limit simvastatin to 20mg)
+- Cyclosporine/Tacrolimus: Amlodipine increases levels
+
+SPECIAL CONSIDERATIONS
+- Long half-life (~35–50 hours): Once-daily dosing; missed doses less critical
+- Safe in renal impairment (not renally eliminated)
+- Can be used in pregnancy-induced hypertension (second/third trimester)
+- Does NOT affect heart rate (unlike beta-blockers or non-dihydropyridine CCBs)
+
+========================================
+DRUG 5: INSULIN (Overview)
+========================================
+
+Types of Insulin:
+
+RAPID-ACTING:
+- Examples: Insulin Lispro (Humalog), Aspart (NovoLog), Glulisine (Apidra)
+- Onset: 10–30 min | Peak: 30 min–3 hrs | Duration: 3–5 hrs
+- Use: Mealtime insulin (inject just before or with meals)
+
+SHORT-ACTING (Regular):
+- Examples: Humulin R, Novolin R
+- Onset: 30–60 min | Peak: 2–4 hrs | Duration: 5–8 hrs
+- Use: IV infusion in ICU, or SC 30 min before meals
+
+INTERMEDIATE-ACTING:
+- Examples: NPH Insulin (Humulin N, Novolin N)
+- Onset: 1–3 hrs | Peak: 4–12 hrs | Duration: 12–18 hrs
+- Use: Basal insulin, twice-daily dosing
+
+LONG-ACTING (Basal):
+- Examples: Glargine (Lantus, Basaglar), Detemir (Levemir), Degludec (Tresiba)
+- Onset: 1–4 hrs | Peak: Peakless (flat profile) | Duration: 20–42 hrs
+- Use: Once daily basal dosing; does not cause peak hypoglycemia
+
+PREMIXED:
+- Examples: 70/30 (70% NPH + 30% Regular), BiAsp 30
+- Use: Twice daily with meals; convenient but less flexible
+
+INSULIN STORAGE
+- Unopened: Refrigerate at 2–8°C (do not freeze)
+- In use (opened): Room temperature (up to 25°C) for up to 28–30 days
+
+HYPOGLYCEMIA (Insulin Side Effect)
+Symptoms: Sweating, trembling, palpitations, confusion, loss of consciousness
+Treatment (conscious patient): 15–20g fast-acting carbohydrates (glucose tablets, juice, sugar)
+Treatment (unconscious): 1mg Glucagon IM/SC, or IV Dextrose 50% (25mL)

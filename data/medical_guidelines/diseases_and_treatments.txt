@@ -1,0 +1,217 @@
+MEDICAL KNOWLEDGE BASE — DISEASES & TREATMENTS
+================================================
+Sample Document for Testing AI Medical Knowledge Assistant
+Source: Illustrative Clinical Reference (Not real medical advice)
+
+========================================
+SECTION 1: DENGUE FEVER
+========================================
+
+OVERVIEW
+Dengue fever is a mosquito-borne viral infection caused by the dengue virus (DENV).
+Four serotypes exist: DENV-1, DENV-2, DENV-3, DENV-4.
+Transmitted by Aedes aegypti and Aedes albopictus mosquitoes.
+Affects tropical and subtropical regions worldwide.
+
+SYMPTOMS
+- Sudden high fever (39–40°C / 102–104°F)
+- Severe headache (frontal)
+- Retro-orbital pain (pain behind the eyes)
+- Muscle pain (myalgia) and joint pain (arthralgia) — called "breakbone fever"
+- Nausea and vomiting
+- Skin rash (appears 2–5 days after fever onset)
+- Mild bleeding: nosebleed, gum bleed, easy bruising
+- Fatigue and weakness
+
+WARNING SIGNS (Severe Dengue — Seek immediate hospital care)
+- Severe abdominal pain or tenderness
+- Persistent vomiting (3 or more times in 24 hours)
+- Rapid breathing or difficulty breathing
+- Bleeding from gums or nose
+- Blood in urine, stool, or vomit
+- Fatigue, restlessness, irritability
+- Pale, cold, or clammy skin
+- Platelet count below 20,000/mm³
+
+DIAGNOSIS
+- NS1 antigen test: positive in days 1–5 of illness
+- IgM antibody: positive from day 5 onward (acute infection)
+- IgG antibody: positive from day 7 (indicates past or secondary infection)
+- Complete Blood Count (CBC): thrombocytopenia (low platelets) and leukopenia (low WBC)
+
+TREATMENT
+No specific antiviral drug exists. Treatment is supportive:
+
+Mild Dengue (outpatient):
+- Complete bed rest
+- Oral rehydration: minimum 2–3 liters of fluids per day (water, ORS, coconut water, juice)
+- Paracetamol (acetaminophen): 500mg–1g every 6 hours for fever (maximum 4g/day)
+- Do NOT use: Aspirin, Ibuprofen, NSAIDs — increases bleeding risk and platelet dysfunction
+
+Severe Dengue (hospitalization required):
+- IV isotonic fluids: Normal saline or Ringer's lactate at 5–10 mL/kg/hour
+- Monitor vital signs every hour
+- Blood transfusion if hematocrit drops significantly
+- Platelet transfusion if <10,000/mm³ with active bleeding
+
+PREVENTION
+- Eliminate mosquito breeding sites (standing water in pots, tyres, containers)
+- Use insect repellent (DEET-based)
+- Wear long-sleeved clothing
+- Use mosquito nets and screens
+- Dengvaxia vaccine: available for seropositive individuals aged 9–45 years in endemic areas
+
+PROGNOSIS
+- Uncomplicated dengue: resolves in 7–10 days with proper supportive care
+- Mortality: <1% with good medical management; up to 20% in untreated severe dengue
+
+========================================
+SECTION 2: MALARIA
+========================================
+
+OVERVIEW
+Malaria is a life-threatening disease caused by Plasmodium parasites.
+Species: P. falciparum (most dangerous), P. vivax, P. malariae, P. ovale, P. knowlesi
+Transmitted by the bite of infected female Anopheles mosquitoes.
+
+SYMPTOMS
+Classic malaria triad:
+1. Cold stage: chills, rigors (30–60 minutes)
+2. Hot stage: fever (39–41°C), headache, vomiting (2–6 hours)
+3. Sweating stage: profuse sweating, temperature drops (2–4 hours)
+
+Cycle: Every 48 hours (P. vivax, P. ovale) or 72 hours (P. malariae)
+Other symptoms: headache, myalgia, fatigue, nausea, splenomegaly
+
+Severe P. falciparum Malaria Signs:
+- Cerebral malaria: confusion, seizures, coma
+- Severe anemia (Hb < 7 g/dL)
+- Respiratory distress
+- Hypoglycemia
+- Acute kidney injury
+- Blackwater fever (hemoglobinuria — dark urine)
+
+DIAGNOSIS
+- Peripheral blood smear (Giemsa stain): gold standard, identifies species and parasite density
+- Rapid Diagnostic Test (RDT): detects HRP-2 antigen (P. falciparum specific)
+- PCR: most sensitive, used for species confirmation and mixed infections
+- CBC: anemia, thrombocytopenia, elevated WBC in severe disease
+
+TREATMENT
+Uncomplicated P. falciparum (first-line):
+- Artemether-Lumefantrine (AL): 80/480mg twice daily for 3 days (adult dose)
+- Artesunate + Amodiaquine: alternative ACT
+- Always take with food (fat increases absorption of lumefantrine)
+
+Severe Malaria:
+- IV Artesunate: 2.4 mg/kg at 0, 12, 24 hours, then daily (preferred over quinine)
+- If artesunate unavailable: IV Quinine + Doxycycline
+- Hospitalization mandatory
+- Monitor blood glucose frequently (hypoglycemia risk)
+
+P. vivax / P. ovale (radical cure):
+- Chloroquine: 25 mg/kg total dose over 3 days (if chloroquine-sensitive region)
+- Primaquine: 0.25 mg/kg/day for 14 days to eliminate liver hypnozoites
+  IMPORTANT: Test for G6PD deficiency before giving primaquine — can cause hemolytic anemia
+
+PREVENTION
+- Insecticide-Treated Nets (ITNs)
+- Indoor Residual Spraying (IRS)
+- Chemoprophylaxis for travelers:
+  * Atovaquone-proguanil (Malarone): 1 tablet daily, start 1–2 days before travel
+  * Doxycycline: 100mg daily, start 1–2 days before travel
+  * Mefloquine: weekly, start 2–3 weeks before travel
+- Mosquito repellents containing DEET
+
+========================================
+SECTION 3: TYPHOID FEVER
+========================================
+
+OVERVIEW
+Typhoid fever is a systemic bacterial infection caused by Salmonella Typhi.
+Transmitted via contaminated food and water (fecal-oral route).
+Incubation period: 7–14 days (range 3–60 days).
+
+SYMPTOMS
+Week 1: Gradually rising fever (stepwise pattern), headache, malaise, dry cough
+Week 2: High fever (39–40°C), relative bradycardia (slow pulse despite high fever),
+         abdominal discomfort, constipation or diarrhea, rose spots (on trunk)
+Week 3: Complications may develop — intestinal perforation, hemorrhage, peritonitis
+
+DIAGNOSIS
+- Blood culture: gold standard (positive in 80% of cases in first week)
+- Widal test: ≥1:160 for O antigen or ≥1:80 for H antigen (supportive, not definitive)
+- Typhidot: rapid IgM/IgG test
+- CBC: leukopenia (low WBC), anemia, elevated liver enzymes
+
+TREATMENT
+Adults (first-line):
+- Azithromycin: 1g on day 1, then 500mg daily for 6 days
+- Ciprofloxacin: 500mg twice daily for 10–14 days (check local resistance patterns)
+- Ceftriaxone: 2g IV daily for 10–14 days (for severe cases)
+
+PREVENTION
+- Safe drinking water (boil or treat water)
+- Proper sewage disposal and sanitation
+- Hand washing with soap
+- Typhoid vaccine (oral or injectable — recommended for travelers to endemic areas)
+
+========================================
+SECTION 4: PNEUMONIA
+========================================
+
+OVERVIEW
+Pneumonia is an infection of the lung parenchyma causing consolidation.
+Classified as: Community-Acquired (CAP), Hospital-Acquired (HAP), or Aspiration pneumonia.
+Common pathogens: Streptococcus pneumoniae (most common), Haemophilus influenzae,
+                   Mycoplasma pneumoniae, Legionella, viruses (influenza, COVID-19)
+
+SYMPTOMS
+- Fever (>38°C), chills
+- Productive cough (yellow, green, or rust-colored sputum)
+- Pleuritic chest pain (sharp, worsens with breathing)
+- Shortness of breath (dyspnea)
+- Fatigue and myalgia
+- Confusion in elderly patients
+
+DIAGNOSIS
+- Chest X-ray: consolidation, infiltrates (required for diagnosis)
+- CBC: elevated WBC with neutrophilia (bacterial), lymphocytosis (viral)
+- Sputum culture: identifies pathogen and sensitivities
+- Blood culture: bacteremia present in ~25% of CAP cases
+- Procalcitonin: elevated in bacterial pneumonia
+
+SEVERITY ASSESSMENT (CURB-65 Score)
+1 point each for:
+- Confusion
+- Urea >7 mmol/L
+- Respiratory rate ≥30/min
+- Blood pressure <90/60 mmHg
+- Age ≥65
+
+Score 0–1: Home treatment
+Score 2: Hospital admission
+Score 3–5: ICU consideration
+
+TREATMENT
+Mild CAP (outpatient):
+- Amoxicillin: 500mg three times daily for 5–7 days
+- Azithromycin: 500mg day 1, then 250mg for 4 days (atypical coverage)
+- Doxycycline: 100mg twice daily for 5–7 days
+
+Moderate-Severe CAP (inpatient):
+- Beta-lactam + macrolide: IV Amoxicillin-clavulanate + Azithromycin
+- Or: IV Ceftriaxone 1–2g daily + Azithromycin
+- Respiratory fluoroquinolone (e.g., Levofloxacin) monotherapy alternative
+
+Supportive care:
+- Oxygen therapy (target SpO2 ≥ 94%)
+- IV fluids if dehydrated
+- Bronchodilators if wheezing
+- Chest physiotherapy
+
+PREVENTION
+- Pneumococcal vaccine (PCV13, PPSV23)
+- Influenza vaccine annually
+- Smoking cessation
+- Hand hygiene
